@@ -1,0 +1,39 @@
+.square{
+    width: 100px;
+	height: 100px;
+    margin: 50px;
+    margin-left: 100px; 
+}
+
+.square-box{
+    display: flex;
+
+}
+
+.red-square{
+    background-color: red;
+}
+
+.black-square{
+    background-color: black;
+}
+
+.yellow-square{
+    background-color: yellow;
+}
+
+.orange-square{
+    background-color: orange;
+}
+
+.green-square{
+    background-color: green;
+}
+
+.rectangle{
+    width: 200px;
+	height: 100px;
+	background-color: pink;
+    margin-left: 550px;
+    margin-top: 30px;
+}
